@@ -1,3 +1,8 @@
 Inicia el archivo.txt
 Rama main puso una segunda linea de codigo
 Rama main puso una tercer linea de codigo
+
+Rama user2 agrego su primer linea de codigo
+Rama user2 agrego su segunda linea de codigo
+Rama user2 agrego su tercer linea de codigo
+Rama user2 agrego su cuarta linea de codigo
